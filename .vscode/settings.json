@@ -1,0 +1,13 @@
+{
+  "[javascriptreact]": {
+    "editor.codeActionsOnSave": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "source.organizeImports": false,
+      "source.fixAll.eslint": true
+    }
+  },
+  "editor.formatOnSave": true,
+  "prettier.requireConfig": true,
+  "cSpell.enableFiletypes": ["javascript"],
+  "cSpell.language": "en,pt,pt_BR"
+}
